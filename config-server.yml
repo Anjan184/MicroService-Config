@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: config-server  # Name of the config server application
+
+logging:
+  level:
+    root: INFO
+    org.springframework: INFO
